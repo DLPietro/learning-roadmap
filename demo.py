@@ -1,1 +1,1 @@
-# Environment to proceed with python, R and SQL practice
+# Environment to proceed with Python

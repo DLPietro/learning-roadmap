@@ -1,4 +1,9 @@
 ### DAY 1: DOWNLOAD AND EXERCIZE ON FINANCIAL DATA
+================
+# MAIN GOALS
+# Understanding data types, and first approach 
+================
+
 
 # Step 1: Importing Yahoo Finance
 !pip install yfinance          # Command to download the Yahoo Finance library tool

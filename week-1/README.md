@@ -34,3 +34,8 @@ LINK: https://www.conventionalcommits.org/en/v1.0.0/
 
 ### HOW TO SEE A SCRIPT ONLINE EXECUTED
 LINK: https://nbviewer.org/
+
+### HOW TO WRITE A README FILE PROPERLY
+LINKS: https://github.com/othneildrew/Best-README-Template?spm=a2ty_o01.29997173.0.0.6c13c921NaPCYq     # README TEMPLATE
+https://github.com/matiassingers/awesome-readme?spm=a2ty_o01.29997173.0.0.6c13c921NaPCYq                # TIPS FOR README
+https://shields.io/?spm=a2ty_o01.29997173.0.0.6c13c921NaPCYq                                            # CUSTOMISED BADGE

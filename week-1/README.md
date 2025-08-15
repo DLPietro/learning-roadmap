@@ -1,31 +1,31 @@
-### HOW TO WRITE COMMIT MESSAGES
+# HOW TO WRITE COMMIT MESSAGES
 
-<tipo>(<ambito>): <descrizione breve>
-<riga vuota>
-<descrizione estesa (opzionale)>
-<riga vuota>
-<informazioni aggiuntive (opzionale, es. issue, breaking change)>
+**Structure**
+<tipo>(<ambito>): <short description>
+<empty row>
+<extended description>
+<empty row>
+<additional information (ex. issue, breaking change)>
 
 
 ### CONVENTION CODES
-feat : NEW FUNCTION
-fix : FIXING A BUG
-docs : DOC AMMENDED
-style : FORMAT CHANGED
-refactor : RECSTRUCTURED
-perf : OPTIMISED
-test : ADD/MOD TESTS
-build : BUIND AMENDED
-ci : CI/CD AMENDMENTS
-chore : ORDINARY MANTEINANCE
-revert : REVERSING A PREVIOUS COMMIT
+- _feat_ : NEW FUNCTION
+- _fix_ : FIXING A BUG
+- _docs_ : DOC AMMENDED
+- _style_ : FORMAT CHANGED
+- _refactor_ : RECSTRUCTURED
+- _perf_ : OPTIMISED
+- _test_ : ADD/MOD TESTS
+- _build_ : BUIND AMENDED
+- _ci_ : CI/CD AMENDMENTS
+- _chore_ : ORDINARY MANTEINANCE
+- _revert_ : REVERSING A PREVIOUS COMMIT
 
 
 ### STRUCTURE DESCRIPTION
-feat(api): introduce breaking change nell'endpoint /users
+feat(api): small intro
 
-BREAKING CHANGE: L'endpoint /users ora restituisce solo utenti attivi.
-Per ottenere tutti gli utenti, usare /users?all=true.
+BREAKING CHANGE: longer description
 
 Closes #789
 Co-authored-by: Maria Rossi <maria@example.com>

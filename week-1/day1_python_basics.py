@@ -1,8 +1,7 @@
 ### DAY 1: DOWNLOAD AND EXERCIZE ON FINANCIAL DATA
-================
+
 # MAIN GOALS
 # Understanding data types, and first approach 
-================
 
 
 # Step 1: Importing Yahoo Finance
@@ -34,3 +33,12 @@ for n in close_prices[1:]:
 
 print('Daily Returns', daily_returns[:5])              # It shows the result of the first 5 values
 
+### ALTERNATIVE EXERCISE 2: COMPUTING DAILY RETURNS OF THE ASSET (TO BE TESTED)
+# daily_returns = []
+# for i in range(1, len(close_prices)):
+  #   today_price = close_prices[i]
+   # yesterday_price = close_prices[i-1]
+# ret = ((today_price / yesterday_price) * 100)
+    # daily_returns.append(round(ret, 2))
+
+# print('Daily Returns', daily_returns[:5])              # It shows the result of the first 5 values

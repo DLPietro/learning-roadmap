@@ -4,18 +4,31 @@ A living collection of useful commands, shortcuts, tools, and tricks I'm learnin
 
 > _Updated regularly as I progress through my [Learning Roadmap](/README.md)._
 
+## 💻 Concepts - First Approach 
+
+| Terminal | First window once Python installed |
+| IDLE | Environment to modify easily scripts (VS Code, Google Colab, PyCharm) |
+| REPL | Reply by the terminal |
+| .py | Pure Python |
+| .pynb | Jupiter Notebook |
 ---
 
-## 💻 Terminal & Git
+## 💻 Terminal & Git - For Python Installed on the Laptop
 
 | Command | Description |
-
+| python --version | Checking Python Version Installed |
+| print('alpha') | showing text _alpha_ on the console |                   # Alternatives: to use more rows: 1) print('Nome\nCognome'); 2) print('Nome', 'Cognome', sep='\n'); 3) print('''Nome
+Cognome''')
+| exit() / Ctrl+Z + Enter | Exit Terminal |
+| saluto.py | Description |
 ---
 
 ## 🐍 Python & Jupyter
 
 | Command / Shortcut | Description |
-
+| print("The results for " var_1 " are " + var_2) | Adding variables strings on a printed string |    # Alternative: print(f"The results for {var_1} are " + {var_2}) f-string automatic converter; print("The results for {} are {}".format(var_1, var_2))
+| Command / Shortcut | Description |
+| Command / Shortcut | Description |
 ---
 
 ## 📊 Data Visualization

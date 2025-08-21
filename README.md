@@ -31,8 +31,7 @@ All study materials, code snippets, project files, and notes are organized in th
 
 ---
 
-## 🧩 Commit Message Guidelines
+## 🧩 Guidelines & Cheatsheets | 🚧 In Progress |
 
 To maintain clean, readable, and traceable version history, I follow the **[Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)** convention.
-
-### ✅ Format
+📚 Also check out my [growing cheatsheet of tools & commands](/cheatsheet.md).

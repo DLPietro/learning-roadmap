@@ -11,6 +11,7 @@ A living collection of useful commands, shortcuts, tools, and tricks I'm learnin
 | REPL | Reply by the terminal |
 | .py | Pure Python |
 | .pynb | Jupiter Notebook |
+
 ---
 
 ## 💻 Terminal & Git - For Python Installed on the Laptop
@@ -21,6 +22,7 @@ A living collection of useful commands, shortcuts, tools, and tricks I'm learnin
 Cognome''')
 | exit() / Ctrl+Z + Enter | Exit Terminal |
 | saluto.py | Description |
+
 ---
 
 ## 🐍 Python & Jupyter
@@ -29,6 +31,7 @@ Cognome''')
 | print("The results for " var_1 " are " + var_2) | Adding variables strings on a printed string |    # Alternative: print(f"The results for {var_1} are " + {var_2}) f-string automatic converter; print("The results for {} are {}".format(var_1, var_2))
 | Command / Shortcut | Description |
 | Command / Shortcut | Description |
+
 ---
 
 ## 📊 Data Visualization

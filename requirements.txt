@@ -6,3 +6,6 @@ ggplot
 
 ### To amend and verify the codes / scripts
 https://www.jdoodle.com/python3-programming-online?spm=a2ty_o01.29997173.0.0.6c13c921PIlxgp
+
+### Emoji to use in writing
+https://gist.github.com/rxaviers/7360908

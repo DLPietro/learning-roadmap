@@ -1,6 +1,6 @@
 # 🗺️ Learning Roadmap: My Journey in Data & Software Skills
 
-Welcome to my **structured learning roadmap** — a public, week-by-week plan to build and deepen my skills in **Python programming, data analysis and visualization best practices**.
+Welcome to my **structured learning roadmap** — a public, week-by-week plan to build and deepen my skills in **Python programming, data analysis, and visualization best practices**.
 
 This repository serves as both a **personal study guide** and a **transparent log of progress**, helping me stay consistent, accountable, and focused on measurable goals.
 
@@ -10,7 +10,7 @@ This repository serves as both a **personal study guide** and a **transparent lo
 
 | Week | Focus Area | Status |
 |------|-----------|--------|
-| **Week 1** | 🐍 Python Basics (Syntax, Data Structures, Functions) | 🚧 In Progress |
+| **Week 1** | 🐍 Python Basics (Syntax, Data Structures, Functions) | ✅ Completed |
 | **Week 2** | 📊 Market Analysis Dashboard - Mini Project | 🚧 In Progress |
 | **Week 3** | 🔍 SQL for Data Analysis (Queries, Joins, Aggregations) | ⏳ Upcoming |
 | **Week 4** | 📈 Data Visualization with Matplotlib & Seaborn | ⏳ Upcoming |

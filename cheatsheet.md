@@ -25,7 +25,7 @@ A living collection of useful commands, shortcuts, tools, and tricks I'm learnin
 | exit() / Ctrl+Z + Enter | Exit Terminal |
 | saluto.py | file Python could be used as a module |
 
->- Alternatives: to use more rows: 1) print('Nome\nCognome'); 2) print('Nome', 'Cognome', sep='\n'); 3) print('''Nome Cognome''')
+> _Alternatives: to use more rows: 1) print('Nome\nCognome'); 2) print('Nome', 'Cognome', sep='\n'); 3) print('''Nome Cognome''')_
 
 ---
 
@@ -35,7 +35,7 @@ A living collection of useful commands, shortcuts, tools, and tricks I'm learnin
 |------|-----------|
 | print("The results for " var_1 " are " + var_2) | Adding variables strings on a printed string |
 
->- Alternative: print(f"The results for {var_1} are " + {var_2}) f-string automatic converter; print("The results for {} are {}".format(var_1, var_2))
+> _Alternative: print(f"The results for {var_1} are " + {var_2}) f-string automatic converter; print("The results for {} are {}".format(var_1, var_2))_
 
 ---
 

@@ -1,4 +1,4 @@
-# 🚨 Pietro D. Leo’s Commit Convention (v1.0 — “Madness Edition”)
+# 🚨 Pietro’s Commit Convention (v1.0 — “Madness Edition”)
 
 > _“I don’t commit code. I commit progress, rage, and occasional victories.”_
 

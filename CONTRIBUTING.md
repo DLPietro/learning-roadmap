@@ -13,6 +13,10 @@ Adding work, thoughts, and personal drama while coding.
 | Emoji & Type | Meaning | Example |
 |-------------|---------|---------|
 | 🚀 `start` | The project is born, or dies immediately. | `🚀 start: NAV calculator project` |
+| ➕ `add` | I add something, I don't know what. Does it work? Maybe. | `➕ add: a new row of script` |
+| 🤷 `rename` | I changed the name. Why? I don't know, but it's its new name. | `🤷 rename: da "data.py" a "final_version_v2_final.py"` |
+| 🐛 `stupid-commit` | I modified a comma. A dot. A letter. Nothing makes sense, but I made it. | `🐛 stupid-commit: changed "and" to "&" in comment. I'm tired.` |
+| 📥 `manual-data` | Inserted data manually. I know: I'm a monster. But it's working so far. | `📥 manual-data: inputted NAV manually because API is down again` |
 | 🔨 `build` | I spent three hours on this piece of code: Exhausting!! | `🔨 build: add live price fetcher with yfinance` |
 | 📊 `viz` | Finally, the figures are becoming visible. And they're not bad at all. | `📊 viz: bar chart of portfolio holdings` |
 | ⚡ `auto` | I replaced manual work with a click. | `⚡ auto: generate daily report CSV` |

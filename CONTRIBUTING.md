@@ -1,28 +1,28 @@
-# 🚨 Pietro D. Leo’s Commit Convention (v1.0 — “Folle Edition”)
+# 🚨 Pietro D. Leo’s Commit Convention (v1.0 — “Madness Edition”)
 
 > _“I don’t commit code. I commit progress, rage, and occasional victories.”_
 
 I've been trying to use conventional commits; that style, however, soon made me bored. This is how I track my journey to a **data analyst who actually fixes things**.
 
-Adding work, thoughts, and personal drama coding.
+Adding work, thoughts, and personal drama while coding.
 
 ---
 
-## 🔧 The Rules (In My Language)
+## 🔧 The Rules
 
-| Emoji | Type | Meaning | Example |
-|-------|------|---------|---------|
-| 🚀 `start` | Il progetto nasce. O muore subito. | `🚀 start: NAV calculator project` |
-| 🔨 `build` | Ho passato 3 ore su questo pezzo di codice. Suda. | `🔨 build: add live price fetcher with yfinance` |
-| 📊 `viz` | Finalmente i numeri diventano visibili. E non sono brutti. | `📊 viz: bar chart of portfolio holdings` |
-| ⚡ `auto` | Ho sostituito un lavoro manuale con un click. | `⚡ auto: generate daily report CSV` |
-| 🧮 `math` | Ho usato una formula vera. Non ho bluffato. | `🧮 math: implement CVaR with Monte Carlo` |
-| 🤬 `rage` | Lo script non funziona. I signori aspettino lo sbattimento di testa del vostro Data Analyst. | `🤬 rage: Yahoo Finance returned 403 — again.` |
-| ⚠️ `fixme` | Funziona… ma è un casino. Da sistemare prima che qualcuno lo guardi. | `⚠️ fixme: hardcoded ticker AAPL — must be dynamic` |
-| 👷 `work-in-progress` | Pietro D. Leo sta lavorando per voi. Non disturbare. | `👷 work-in-progress: refactoring risk model` |
-| 🚫 `private` | Repository privata. Vietato l’accesso. Solo per il folle Pietro D. Leo. | `🚫 private: proprietary backtesting engine` |
-| 🏆 `victory` | Ho finito. È funzionante. Puoi festeggiare. Soldoniii incoming. | `🏆 victory: NAV calculator ready for production` |
-| 🧱 `draft` | Prima bozza. Potrebbe crollare da un momento all'altro. | `🧱 draft: initial structure of Tableau dashboard` |
+| Emoji & Type | Meaning | Example |
+|-------------|---------|---------|
+| 🚀 `start` | The project is born, or dies immediately. | `🚀 start: NAV calculator project` |
+| 🔨 `build` | I spent three hours on this piece of code: Exhausting!! | `🔨 build: add live price fetcher with yfinance` |
+| 📊 `viz` | Finally, the figures are becoming visible. And they're not bad at all. | `📊 viz: bar chart of portfolio holdings` |
+| ⚡ `auto` | I replaced manual work with a click. | `⚡ auto: generate daily report CSV` |
+| 🧮 `math` | I used a real formula; and no jokes | `🧮 math: implement CVaR with Monte Carlo` |
+| 🤬 `rage` | The script isn't working. Gentlemen, please wait for banging my head against the wall. | `🤬 rage: Yahoo Finance returned 403 — again.` |
+| ⚠️ `fixme` | It works... but it's a mess. Needs to be fixed before anyone sees it. | `⚠️ fixme: hardcoded ticker AAPL — must be dynamic` |
+| 👷 `work-in-progress` | Pietro is working for you; do not disturb. | `👷 work-in-progress: refactoring risk model` |
+| 🚫 `private` | Access prohibited. For the attention of Pietro only. | `🚫 private: proprietary backtesting engine` |
+| 🏆 `victory` | IT'S WORKING: Let's celebrateeeeee!!! | `🏆 victory: NAV calculator ready for production` |
+| 🧱 `draft` | First draft. It could collapse at any moment. | `🧱 draft: initial structure of Tableau dashboard` |
 
 ---
 
@@ -61,17 +61,12 @@ That’s worth celebrating.
 
 ## 🛑 Disclaimer
 
-This is not official.  
-This is not standard.  
+This is not official, either standard.
 This is **not meant for corporations that fear emojis**.
 
-But if you're building something real —  
-if you’re tired of being the guy who just copies Excel sheets —  
-then this is your convention.
-
-Welcome to the revolution.
+But if you're building something real — pain and emotions — it could be yours as well!!  
 
 — **Pietro D. Leo**  
 *From Operations to Data. One Commit at a Time.*
 
-> _"The best tool isn't Python. It's the courage to automate what no one else dares to."_
+> _"The best tool isn't Python. It's me trying to make it mine."_

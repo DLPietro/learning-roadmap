@@ -27,13 +27,13 @@ All study materials, code snippets, project files, and notes are organized in th
 - 📄 [Week 1: Python Basics](/week-1)  
   Includes exercises, examples, and a guide on **how to write professional commit messages**.
 
-👉 **Commit Guide below**:
-
-[![Commit Style](https://img.shields.io/badge/Commit_Style-DLPietro-9B59B6?style=for-the-badge&logo=git&logoColor=white)](https://github.com/DLPietro/learning-roadmap/blob/main/CONTRIBUTING.md)
 
 ---
 
 ## 🧩 Guidelines & Cheatsheets | 🚧 In Progress |
 
-To maintain clean, readable, and traceable version history, I follow the **[Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)** convention.
+At the beginning, I used the **[Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)** here. Nowadays, I created a new **Customised Commit Guide** below:
+
+[![Commit Style](https://img.shields.io/badge/Commit_Style-DLPietro-9B59B6?style=for-the-badge&logo=git&logoColor=white)](https://github.com/DLPietro/learning-roadmap/blob/main/CONTRIBUTING.md)
+
 📚 Also check out my [growing cheatsheet of tools & commands](/cheatsheet.md).

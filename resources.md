@@ -88,3 +88,7 @@ https://www.jdoodle.com/python3-programming-online?spm=a2ty_o01.29997173.0.0.6c1
 
 ### Emoji to use in writing
 https://gist.github.com/rxaviers/7360908
+
+### Tips for the CV / Applications
+https://www.youtube.com/shorts/FwcoqUUychs
+https://www.youtube.com/shorts/QwwS7PxYpzo

@@ -14,6 +14,7 @@ Adding work, thoughts, and personal drama while coding.
 |-------------|---------|---------|
 | 🚀 `start` | The project is born, or dies immediately. | `🚀 start: NAV calculator project` |
 | ➕ `add` | I add something, I don't know what. Does it work? Maybe. | `➕ add: a new row of script` |
+| ✅ `completed` | Task completed. I don't know how it's working, but I made it! | `✅ completed: a module loaded correctly` |
 | 🤷 `rename` | I changed the name. Why? I don't know, but it's its new name. | `🤷 rename: da "data.py" a "final_version_v2_final.py"` |
 | 🐛 `stupid-commit` | I modified a comma. A dot. A letter. Nothing makes sense, but I made it. | `🐛 stupid-commit: changed "and" to "&" in comment. I'm tired.` |
 | 📥 `manual-data` | Inserted data manually. I know: I'm a monster. But it's working so far. | `📥 manual-data: inputted NAV manually because API is down again` |

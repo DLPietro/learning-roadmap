@@ -92,3 +92,6 @@ https://gist.github.com/rxaviers/7360908
 ### Tips for the CV / Applications
 https://www.youtube.com/shorts/FwcoqUUychs
 https://www.youtube.com/shorts/QwwS7PxYpzo
+https://atsresume.vercel.app/
+https://github.com/MohitR1999/ats-friendly-resume
+https://github.com/louisgregg/ats-resume-generator

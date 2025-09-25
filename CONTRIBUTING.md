@@ -73,6 +73,5 @@ This is **not meant for corporations that fear emojis**.
 But if you're building something real — pain and emotions — it could be yours as well!!  
 
 — **Pietro D. Leo**  
-*From Operations to Data. One Commit at a Time.*
 
-> _"The best tool isn't Python. It's me trying to make it mine."_
+> _*From Operations to Data. One Commit at a Time.*_

@@ -65,7 +65,7 @@ That’s worth celebrating.
 
 ---
 
-## 🛑 Disclaimer
+## ⚠️ Disclaimer
 
 This is not official, either standard.
 This is **not meant for corporations that fear emojis**.

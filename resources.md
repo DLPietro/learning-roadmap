@@ -21,15 +21,9 @@ It collects all the tools, links, and resources useful for my journey. Updating.
 For `README.md` DLPietro repository.
 
 ### ✅ Blog
-markdown
-[![Blog](https://img.shields.io/badge/Blog-My_Data_Journey-2176C7?style=for-the-badge&logo=ghost&logoColor=white)](https://dlpietro.github.io)
-[![GitHub](https://img.shields.io/badge/GitHub-DLPietro-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DLPietro)
-[![Learning Roadmap](https://img.shields.io/badge/Learning_Roadmap-DLPietro-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DLPietro/learning-roadmap)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DLPietro&show_icons=true&theme=radical&layout=compact&from=2024-08-01)    # Github Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DLPietro&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=DLPietro&theme=radical&hide_border=true)
-![Metrics](https://metrics.lecoq.io/DLPietro?template=classic&base=primary&border=tertiary&text=secondary&size=small)
-![](https://activity-graph.herokuapp.com/graph?username=DLPietro&theme=react-dark&area=true&from=2024-08-01)
+Badges and stats available here;
+
+https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#all-demos
 
 ---
 

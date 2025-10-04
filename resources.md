@@ -20,6 +20,14 @@ It collects all the tools, links, and resources useful for my journey. Updating.
 
 For `README.md` DLPietro repository:
 
+
+<div align="center">
+	<a href="https://github.com/DLPietro/igaming-analytics-case-study"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DLPietro&repo=igaming-analytics-case-study&theme=radical&hide=Jupyter%20Notebook"/>
+	<a href="https://github.com/DLPietro/thesis-backtesting-etf-spx"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DLPietro&repo=thesis-backtesting-etf-spx&theme=radical&hide=Jupyter%20Notebook"/>
+	<a href="https://github.com/DLPietro/custody-nav-calculator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DLPietro&repo=custody-nav-calculator&theme=radical&hide=Jupyter%20Notebook"/>
+	<a href="https://github.com/DLPietro/learning-roadmap"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DLPietro&repo=learning-roadmap&theme=radical&hide=Jupyter%20Notebook"/>
+ </div>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DLPietro&repo=learning-roadmap&theme=radical&hide=Jupyter%20Notebook)](https://github.com/DLPietro/learning-roadmap)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DLPietro&repo=igaming-analytics-case-study&theme=radical&hide=Jupyter%20Notebook)](https://github.com/DLPietro/igaming-analytics-case-study)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DLPietro&repo=thesis-backtesting-etf-spx&theme=radical&hide=Jupyter%20Notebook)](https://github.com/DLPietro/thesis-backtesting-etf-spx)
